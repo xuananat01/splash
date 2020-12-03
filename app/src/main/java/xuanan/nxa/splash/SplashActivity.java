@@ -11,6 +11,7 @@ import androidx.appcompat.app.AppCompatActivity;
 public class SplashActivity extends AppCompatActivity {
 
     private ImageView logo;
+    //chỉnh time
     private static int splashTimeout=4000;
 
     @Override
